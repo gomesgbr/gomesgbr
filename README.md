@@ -14,7 +14,11 @@ Atualmente estou focado em estudar JAVA, porém me dedico tambem ao frontend.
           
  * * *
 <div>
-<a href="https://github.com/gomesgbr">
-<img align="center" width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgbr&layout=compact&langs_count=7&theme=dracula"/>
-<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=gomesgbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<div style="width:50%;display: inline-block;border:2px; box-sizing:border-box;float:left;" > <a href="https://github.com/gomesgbr">
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgbr&layout=compact&langs_count=7&theme=dracula"/></div>
+
+<div style="width:50%;display: inline-block;border:2px; box-sizing:border-box;float:left;margin: 0 1%" 
+> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gomesgbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+
 </div>
