@@ -18,7 +18,7 @@ Atualmente estou focado em estudar JAVA, porém me dedico tambem ao frontend.
 <div style="width:50%; height:40%; display: inline-block; border:2px; box-sizing:border-box; float:left;" >
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgbr&layout=compact&langs_count=7&theme=dracula"/></div>
 
-<div style="width:42%; display: inline-block; border:2px; box-sizing:border-box; float:left;margin: 0 1%; padding:0" 
+<div style="width:20%; display: inline-block; border:2px; box-sizing:border-box; float:left;margin: 0 1%; padding:0" 
 > <img src="https://github-readme-stats.vercel.app/api?username=gomesgbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
 </div>
